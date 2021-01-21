@@ -14,5 +14,3 @@ Other than coding, I also invest some of time into the stock market 📈
 
 ### Statistics 📊
 <img src="https://github-readme-stats.vercel.app/api?username=Nojze&show_icons=true&count_private=true">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojze&layout=compact)](https://github.com/Nojze)
