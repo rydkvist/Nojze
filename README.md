@@ -1,16 +1,14 @@
-## Hey there! 👋
+## Hi there! 👋
 
-### About 👨‍💻
-The name's Niklas, I'm 19 years old, currently living in Stockholm, Sweden 🇸🇪
+My name is Niklas, a 19 y/o from Stockholm, Sweden 🇸🇪
 
-I'm a passionate and driven self-taught Software Engineer who currently works with creating professional web applications and design systems. Frontend development pretty much. 
-I'm also expanding my limits in the backend world, with the goal of soon becoming a full-stack developer 💻
+I'm a **passionate** and **driven** self-taught **Software Engineer** who is obsessed with **scalable applications** that provides a great **UX/UI** for the users, but also a great codebase for developers to work and scale with 🛠️
 
-In my spare time I write code on my personal projects, where I work with modern programming languages and try new technologies. 
+Currently, I'm working full-time at **[@MoliStreaming](https://github.com/molistreaming)**, a mobile live streaming startup 🚀
 
-Other than coding, I also invest some of time into the stock market 📈
+In my spare time, I write code on my personal projects and try to expand my knowledge in the backend world, with the goal of soon becoming a full-fledged Software Engineer 🧙🏼‍♂️
 
-### Contact – [niklasrydkvist.com](https://www.niklasrydkvist.com/) ✉️
+Other than coding, I also invest some of my time into the stock market 🤠
 
-### Statistics 📊
-<img src="https://github-readme-stats.vercel.app/api?username=Nojze&show_icons=true&count_private=true">
+✉️ – [ **niklasryd01@gmail.com**](mailto://niklasryd01@gmail.com) \
+🏡 – [ **niklasrydkvist.com**](https://www.niklasrydkvist.com/)
