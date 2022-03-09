@@ -10,5 +10,5 @@ In my spare time, I write code on my personal projects and try to expand my know
 
 Other than coding, I also invest some of my time into the stock market 🤠
 
-✉️ – [ **niklasryd01@gmail.com**](mailto://niklasryd01@gmail.com) \
-🏡 – [ **niklasrydkvist.com**](https://www.niklasrydkvist.com/)
+✉️ – [ **niklas@rydkvist.com**](mailto://niklas@rydkvist.com) \
+🏡 – [ **rydkvist.com**](https://www.rydkvist.com/)
