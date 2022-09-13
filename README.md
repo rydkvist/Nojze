@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-My name is Niklas, a 20 y/o from Stockholm, Sweden 📍
+My name is Niklas from Stockholm, Sweden 📍
 
 I'm a **passionate** and **driven** self-taught **Software Engineer** who is obsessed with **scalable applications** that provides a great **UX/UI** for the users, but also a great codebase for developers to work and scale with 🛠️
 
