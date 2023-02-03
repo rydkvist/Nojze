@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-My name is Niklas, a Software Engineer from Stockholm Sweden 📍
+I'm Niklas, a self-taught Software Engineer from Stockholm, Sweden 📍
 
-I'm a **passionate** and **driven** self-taught **Software Engineer** who is obsessed with **scalable applications** that provides a great **UX/UI** for the users, but also a great codebase for developers to work and scale with 🛠️
+As a passionate and driven individual, I'm focused on building scalable applications with great UX/UI 🎨 for users and maintainable codebases for developers. I love being a part of the entire software development process, from design to deployment 🛠️
 
-In my spare time, I write code on my personal projects and try to expand my knowledge in the backend world, with the goal of soon becoming a full-fledged Software Engineer 🧙🏼‍♂️
+In my spare time, I continue to expand my knowledge and work on personal projects, with the ultimate goal of becoming a full-fledged Software Engineer 🧙🏼‍♂️ 
 
-Other than coding, I also invest some of my time into the stock market 🤠
+When I'm not knacking code, you can find me keeping an eye on the stock market, exploring new destinations, or making connections with interesting individuals 🌍
 
 ✉️ – [ **niklas@rydkvist.com**](mailto://niklas@rydkvist.com) \
 🏡 – [ **rydkvist.com**](https://www.rydkvist.com/)
